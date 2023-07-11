@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Panel - Responsibilities of the Digital Humanities
 manifest_name: panel-responsibilities-of-the-digital-humanities
 permalink: panel-responsibilities-of-the-digital-humanities
