@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "ESU2019 erster Versuch" ] },
+    "summary": { "en": [ "Vorträge, Panel, Project Presentations der ESU 2019 Leipzig" ] },
+    "items": [
+    ]
+}
