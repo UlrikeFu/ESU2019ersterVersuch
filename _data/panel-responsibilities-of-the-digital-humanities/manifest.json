@@ -23,6 +23,24 @@
         "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5329.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/annotations/panel-responsibilities-of-the-digital-humanities-canvas-1-no-speaker.json",
+            "label": {
+              "none": ["No Speaker"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/annotations/panel-responsibilities-of-the-digital-humanities-canvas-1-prof--dr--elisabeth-burr.json",
+            "label": {
+              "none": ["Prof. Dr. Elisabeth Burr"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/paintings",

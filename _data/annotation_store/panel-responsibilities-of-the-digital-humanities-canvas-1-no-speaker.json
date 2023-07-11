@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/annotations/panel-responsibilities-of-the-digital-humanities-canvas-1-no-speaker.json",
+  "type": "AnnotationPage",
+  "label": "No Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "panel-responsibilities-of-the-digital-humanities-canvas-1-no-speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Info Page",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,5.0"
+        }
+      }
+    }
+  ]
+}
