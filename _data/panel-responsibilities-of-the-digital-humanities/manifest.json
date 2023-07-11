@@ -3,6 +3,21 @@
     "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Panel - Responsibilities of the Digital Humanities" ] },
+    "homepage": [
+      {
+        "id": "https://zenodo.org/record/3457288",
+        "type": "Text",
+        "label": { "en": [ "Panel - Responsibilities of the Digital Humanities" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://zenodo.org/",
+        "type": "Agent",
+        "label": { "en": [ "Zenodo" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/canvas",
