@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Panel - Responsibilities of the Digital Humanities" ] },
+    "items": [
+      {
+        "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5329.0,
+        "items": [
+          {
+            "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://zenodo.org/record/3457288/files/Panel.mp4?download=1",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 5329.0
+                },
+                "target": "https://UlrikeFu.github.io/ESU2019ersterVersuch/panel-responsibilities-of-the-digital-humanities/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
